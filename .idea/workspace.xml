@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d137517-1860-48f5-b157-4dd5aabaece2" name="Default Changelist" comment="">
+    <list default="true" id="6d137517-1860-48f5-b157-4dd5aabaece2" name="Default Changelist" comment="grouping">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/pageobjects/dummi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/S.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="330">
               <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,17 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Dummy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/S.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="26" column="7" selection-start-line="23" selection-start-column="4" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="121">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
@@ -74,6 +74,53 @@
                 <element signature="e#917#918#0" expanded="true" />
                 <element signature="e#953#954#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Grouping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/DependentMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/dummi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -121,6 +168,8 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Grouping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/pageobjects/DependentMethods.java" />
       </list>
     </option>
   </component>
@@ -204,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.S (1)">
+  <component name="RunManager" selected="TestNG.DependentMethods">
     <configuration name="C:/Users/User/IdeaProjects/Demo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -226,13 +275,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DependentMethods" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.pageobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.demo.pageobjects" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.pageobjects.DependentMethods" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grouping" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="S" />
+      <option name="PACKAGE_NAME" value="com.demo.pageobjects" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.pageobjects.Grouping" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -314,11 +390,13 @@
       <item itemvalue="TestNG.C:/Users/User/IdeaProjects/Demo/testng.xml" />
       <item itemvalue="TestNG.S.launch" />
       <item itemvalue="TestNG.S" />
-      <item itemvalue="TestNG.S (1)" />
+      <item itemvalue="TestNG.Grouping" />
+      <item itemvalue="TestNG.DependentMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.S (1)" />
+        <item itemvalue="TestNG.DependentMethods" />
+        <item itemvalue="TestNG.Grouping" />
         <item itemvalue="TestNG.S" />
         <item itemvalue="TestNG.C:/Users/User/IdeaProjects/Demo/testng.xml" />
         <item itemvalue="TestNG.S.launch" />
@@ -336,6 +414,21 @@
       <option name="presentableId" value="Default" />
       <updated>1564857108711</updated>
     </task>
+    <task id="LOCAL-00001" summary="dependentmethods">
+      <created>1564896014969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564896014969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dependentmethods">
+      <created>1564896181667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564896181667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -360,12 +453,21 @@
     <history-entry file="S - 2019.08.04 at 10h 12m 13s.xml">
       <configuration name="S" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="S_(1) - 2019.08.04 at 10h 13m 12s.xml">
+      <configuration name="S (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Grouping - 2019.08.04 at 10h 37m 01s.xml">
+      <configuration name="Grouping" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DependentMethods - 2019.08.04 at 10h 46m 25s.xml">
+      <configuration name="DependentMethods" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,15 +476,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35582823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35582823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822084" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32668713" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,6 +496,11 @@
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5021097" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dependentmethods" />
+    <MESSAGE value="dummi" />
+    <option name="LAST_COMMIT_MESSAGE" value="dummi" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Demo$Demo_launch.ic" NAME="Demo.launch Coverage Results" MODIFIED="1564858921635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
@@ -403,23 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Dummy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -442,8 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/S.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="26" column="7" selection-start-line="23" selection-start-column="4" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="121">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#127#128#0" expanded="true" />
@@ -462,6 +552,64 @@
             <element signature="e#917#918#0" expanded="true" />
             <element signature="e#953#954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Dummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/Grouping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/DependentMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/pageobjects/dummi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
